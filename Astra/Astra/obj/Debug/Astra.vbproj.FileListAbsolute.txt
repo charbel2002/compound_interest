@@ -1,0 +1,11 @@
+C:\Users\HESSOU\AppData\Local\Temporary Projects\Astra\bin\Debug\Astra.exe.config
+C:\Users\HESSOU\Documents\Astra\Astra\bin\Debug\Astra.exe.config
+C:\Users\HESSOU\Documents\Astra\Astra\bin\Debug\Astra.exe
+C:\Users\HESSOU\Documents\Astra\Astra\bin\Debug\Astra.pdb
+C:\Users\HESSOU\Documents\Astra\Astra\bin\Debug\Astra.xml
+C:\Users\HESSOU\Documents\Astra\Astra\obj\Debug\Astra.Form1.resources
+C:\Users\HESSOU\Documents\Astra\Astra\obj\Debug\Astra.Resources.resources
+C:\Users\HESSOU\Documents\Astra\Astra\obj\Debug\Astra.vbproj.GenerateResource.Cache
+C:\Users\HESSOU\Documents\Astra\Astra\obj\Debug\Astra.exe
+C:\Users\HESSOU\Documents\Astra\Astra\obj\Debug\Astra.xml
+C:\Users\HESSOU\Documents\Astra\Astra\obj\Debug\Astra.pdb
